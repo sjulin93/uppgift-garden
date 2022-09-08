@@ -1,0 +1,42 @@
+
+.Background-One{
+height:15vh;
+background-image: url(tradgard1.jfif);
+background-image: ;
+border: 3px #9fd3c7; 
+border-style: solid none solid solid;
+
+}
+.Background-Two{
+    height:15vh;
+    background-image: url(tradgard2.jfif);
+    border: 3px #9fd3c7; 
+    border-style: solid none solid solid;
+    margin-top:5vh;
+}
+.Background-Three{
+    height:15vh;
+    background-image: url(tradgard3.jfif);
+    border: 3px #9fd3c7; 
+    border-style: solid none solid solid;
+    margin-top:5vh;
+}
+.Background-Four{
+    height:15vh;
+    background-image: url(tradgard4.jfif);
+    border: 3px #9fd3c7; 
+    border-style: solid none solid solid;
+    margin-top:5vh;
+}
+.whiteHeadline{
+  color:#f7f7f7;
+  padding-left: 8vh;
+  padding-top:5vh;
+  font-size: 1.5rem;
+}
+.blackHeadline{
+    color:black;
+  padding-left: 8vh;
+  padding-top:5vh;
+  font-size: 1.5rem;  
+}
